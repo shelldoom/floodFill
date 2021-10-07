@@ -8,10 +8,10 @@ python ./main.py
 ```
 
 ### Usage
-Left Button Click - Black Paint
-Right Button Click - White Paint
-Middle Mouse Button Click - Fill Color (or use the F key)
-Press M key to change the traversal mode 
+- Left Button Click - Black Paint
+- Right Button Click - White Paint
+- Middle Mouse Button Click - Fill Color (or use the F key)
+- Press M key to change the traversal mode 
 
 Fill Color can by changed by left clicking on the color icon. Randomly picks another color upon clicking.
 
